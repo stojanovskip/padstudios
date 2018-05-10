@@ -3017,7 +3017,7 @@ select[multiple].form-group-lg .form-control {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: white;  
   text-decoration: none;
 }
 .btn:active,
@@ -3038,7 +3038,7 @@ fieldset[disabled] .btn {
   opacity: .65;
 }
 .btn-default {
-  color: #333;
+  color: white;
   background-color: #fff;
   border-color: #ccc;
 }
@@ -3048,7 +3048,7 @@ fieldset[disabled] .btn {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333;
+  color: white;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
@@ -3076,14 +3076,15 @@ fieldset[disabled] .btn-default:active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
   background-color: #fff;
+  color: white;
   border-color: #ccc;
 }
 .btn-default .badge {
-  color: #fff;
+  color: white;
   background-color: #333;
 }
 .btn-primary {
-  color: #fff;
+  color: white;
   background-color: #337ab7;
   border-color: #2e6da4;
 }
